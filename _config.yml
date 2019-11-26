@@ -246,6 +246,7 @@ gitment:
 gitalk:
     owner: bigbirditedu
     repo: bigbirditedu.github.io
+    id: location.pathname
     clientID: 0738a3bd42783517d627
     clientSecret: 559df037c39b15b923b91f2f319a2b67f7f92d55
 
