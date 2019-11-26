@@ -240,8 +240,8 @@ gitment:
     owner: bigbirditedu
     repo: bigbirditedu.github.io
     oauth:
-        client_id: 81653c91db1dc332bdf9
-        client_secret: d6d3544d20ade44c3e1c50e45308cd75346906de
+        client_id: 0738a3bd42783517d627
+        client_secret: 559df037c39b15b923b91f2f319a2b67f7f92d55
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: bigbirditedu
