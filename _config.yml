@@ -246,8 +246,8 @@ gitment:
 gitalk:
     owner: bigbirditedu
     repo: bigbirditedu.github.io
-    clientID: 81653c91db1dc332bdf9
-    clientSecret: d6d3544d20ade44c3e1c50e45308cd75346906de
+    clientID: 0738a3bd42783517d627
+    clientSecret: 559df037c39b15b923b91f2f319a2b67f7f92d55
 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
